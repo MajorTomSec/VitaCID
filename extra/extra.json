@@ -1,0 +1,15 @@
+{
+  "SceVshBridge": {
+      "modules": {
+          "SceVshBridge": {
+              "functions": {
+                  "_vshSblAimgrGetConsoleId": 4051923566
+                },
+                "kernel": false,
+                "nid": 902147284,
+                "variables": {}
+            }
+        },
+        "nid": 0
+    }
+}
